@@ -30,3 +30,10 @@ Colours come from the logo: magenta `#fa0dd6`, pink `#fe26ac`, coral `#fd866c`, 
 The logo already carries the handwritten script, so the site uses a clean system font.
 Autography is used for headings (the supplied files are a personal-use licence; the practice confirmed it holds a licence for this use).
 Briliantine Script is not used: the supplied file is a demo with no accents or digits.
+
+## Publishing
+
+`.github/workflows/pages.yml` builds and publishes `site/` to GitHub Pages on every push to `main`.
+One-time setup: repository **Settings > Pages > Build and deployment > Source = GitHub Actions**.
+Preview URL: https://rvanhoeven.github.io/physiofit365/
+For the real domain, set the repository variable `SITE_URL` (for example `https://www.physiofit365.com`) so canonical links and the sitemap use it.
