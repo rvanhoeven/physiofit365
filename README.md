@@ -9,7 +9,7 @@ Languages: English (base), Nederlands, Español.
 - `build.py` – static generator, writes `site/<lang>/...` (home, about, services, faq, contact, privacy).
 - `site/assets/` – css, js, fonts (Autography, licensed by the practice), logo and icons. **Add Mellany's photo as `site/assets/img/mellany.jpg`** (about 920x730 px or larger); until then a logo placeholder is shown.
 - `supabase/migrations/` – database schema for the contact form (`contact_requests`).
-- `site/assets/config.js` – Supabase URL and publishable (anon) key for the form.
+- `site/assets/config.js` – Supabase URL and publishable (anon) key for the form (project "Physiofit365", already filled in).
 
 ## Build
 

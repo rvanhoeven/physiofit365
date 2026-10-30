@@ -1,7 +1,6 @@
 // Public configuration for the contact form.
-// The anon (publishable) key is meant to be public: Row Level Security only allows INSERT on contact_requests.
-// Fill these in after the Supabase project is chosen (see README).
+// The publishable key is meant to be public: Row Level Security only allows INSERT on contact_requests.
 window.PHYSIOFIT_CONFIG = {
-  supabaseUrl: "",
-  supabaseAnonKey: ""
+  supabaseUrl: "https://kmhsswngppprdaubpejb.supabase.co",
+  supabaseAnonKey: "sb_publishable_vjkGQTqsGr0JnuwGD54J3g_I4AhXJl2"
 };
