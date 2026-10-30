@@ -3,7 +3,16 @@
   "locale": "nl_NL",
   "lang_name": "Nederlands",
   "site_name": "PhysioFit365",
-  "nav": {"home": "Home", "about": "Over ons", "services": "Behandelingen", "faq": "Veelgestelde vragen", "contact": "Contact", "cta": "Neem contact op", "menu": "Menu", "language": "Taal"},
+  "nav": {
+    "home": "Home",
+    "about": "Over ons",
+    "services": "Behandelingen",
+    "faq": "Veelgestelde vragen",
+    "contact": "Contact",
+    "cta": "Neem contact op",
+    "menu": "Menu",
+    "language": "Taal"
+  },
   "common": {
     "tagline": "Fysiotherapie aan huis aan de Costa Blanca",
     "address_label": "Adres",
@@ -29,17 +38,39 @@
     "hero_sub": "Persoonlijke fysiotherapie door Mellany van Hoeven, fysiotherapeut en verpleegkundige. Zij komt naar u toe in en rond Rojales en neemt echt de tijd voor u.",
     "cta_primary": "Stel een vraag",
     "cta_secondary": "Bekijk de behandelingen",
-    "badges": ["Gediplomeerd fysiotherapeut", "Geregistreerd verpleegkundige", "English · Nederlands · Español"],
+    "badges": [
+      "Gediplomeerd fysiotherapeut",
+      "Geregistreerd verpleegkundige",
+      "English · Nederlands · Español"
+    ],
     "services_title": "Waarmee wij u helpen",
     "services_sub": "Een breed aanbod voor volwassenen, ouderen en jonge patiënten, altijd afgestemd op u.",
     "why_title": "Waarom PhysioFit365",
     "advantages": [
-      {"title": "Persoonlijke behandeling", "text": "Een volledig individueel behandelplan, afgestemd op uw situatie en uw doelen."},
-      {"title": "Service aan huis", "text": "Wij behandelen u waar u zich het prettigst voelt: thuis."},
-      {"title": "Gediplomeerde therapeut", "text": "Uw behandeling wordt uitgevoerd door een gediplomeerd fysiotherapeut."},
-      {"title": "Samenwerking met uw artsen", "text": "Wij werken nauw samen met al uw andere zorgverleners."},
-      {"title": "Ervaren en gecertificeerd", "text": "Opgeleid en gecertificeerd in moderne technieken van manuele therapie."},
-      {"title": "Duidelijke doelen", "text": "Samen doelen stellen is de beste weg naar een succesvol herstel."}
+      {
+        "title": "Persoonlijke behandeling",
+        "text": "Een volledig individueel behandelplan, afgestemd op uw situatie en uw doelen."
+      },
+      {
+        "title": "Service aan huis",
+        "text": "Wij behandelen u waar u zich het prettigst voelt: thuis."
+      },
+      {
+        "title": "Gediplomeerde therapeut",
+        "text": "Uw behandeling wordt uitgevoerd door een gediplomeerd fysiotherapeut."
+      },
+      {
+        "title": "Samenwerking met uw artsen",
+        "text": "Wij werken nauw samen met al uw andere zorgverleners."
+      },
+      {
+        "title": "Ervaren en gecertificeerd",
+        "text": "Opgeleid en gecertificeerd in moderne technieken van manuele therapie."
+      },
+      {
+        "title": "Duidelijke doelen",
+        "text": "Samen doelen stellen is de beste weg naar een succesvol herstel."
+      }
     ],
     "approach_title": "We behandelen de hele mens, niet alleen de klacht",
     "approach_text": "Wij kijken naar de oorzaken achter uw klacht: stress op werk en thuis, uw algehele lichamelijke conditie, voeding, houding en de patronen die in uw spieren zitten. Zo herstelt u snel en houdt u het resultaat vast.",
@@ -64,28 +95,52 @@
         "title": "Manuele therapie",
         "short": "Behandeling met de handen om beweging te verbeteren, pijn te verminderen en functie te herstellen.",
         "body": "Manuele therapie is een van onze belangrijkste behandelingen. Samen werken we aan uw bewegingsmogelijkheden en aan een gezonder, vollediger leven. Uw therapeut doet een uitgebreid onderzoek, inclusief houding en biomechanica, om de oorzaak van uw probleem te vinden. Als u klaar bent voor afronding krijgt u een persoonlijk oefenprogramma voor thuis, zodat u gezond blijft.",
-        "points": ["Pijnbestrijding", "Revalidatie na operaties", "Spierversterking", "Zorg voor ouderen"]
+        "points": [
+          "Pijnbestrijding",
+          "Revalidatie na operaties",
+          "Spierversterking",
+          "Zorg voor ouderen"
+        ]
       },
       {
         "id": "work",
         "title": "Werkblessures",
         "short": "Revalidatie om u veilig terug te laten keren naar uw werk.",
         "body": "Houdt een blessure door uw werk u tegen? Ons programma voor werkblessures pakt het actief maar voorzichtig aan om u weer aan het werk te krijgen. Wij werken in teamverband en overleggen zo nodig met uw werkgever en casemanager, en helpen u terug te keren naar al uw normale activiteiten.",
-        "points": ["Werkgerelateerde klachten", "Plan voor werkhervatting", "Zo nodig contact met werkgever", "Persoonlijk oefenprogramma"]
+        "points": [
+          "Werkgerelateerde klachten",
+          "Plan voor werkhervatting",
+          "Zo nodig contact met werkgever",
+          "Persoonlijk oefenprogramma"
+        ]
       },
       {
         "id": "sport",
         "title": "Sportblessures",
         "short": "Onderzoek, behandeling en preventie voor sporters van elk niveau.",
         "body": "Wij richten onze revalidatie op wat sporters nodig hebben om te presteren en op het voorkomen van sportblessures. Tijdens uw eerste afspraak stellen wij vragen over uw sport en vragen wij u mogelijk enkele bewegingen te laten zien. Daarna bespreken we samen de diagnose en het behandelplan. Wij onderzoeken, behandelen en revalideren blessures aan het bewegingsapparaat en aan zacht weefsel.",
-        "points": ["Zachte-weefselblessures", "Revalidatie en terugkeer naar sport", "Blessurepreventie", "Persoonlijke zorg"]
+        "points": [
+          "Zachte-weefselblessures",
+          "Revalidatie en terugkeer naar sport",
+          "Blessurepreventie",
+          "Persoonlijke zorg"
+        ]
       }
     ],
     "how_title": "Zo verloopt een bezoek",
     "how": [
-      {"title": "U neemt contact op", "text": "Stuur een bericht of bel. Vertel kort wat er speelt."},
-      {"title": "Onderzoek bij u thuis", "text": "Wij komen langs, luisteren goed en onderzoeken uw klacht. Een sessie duurt meestal 45 tot 60 minuten."},
-      {"title": "Behandeling en plan", "text": "U krijgt een behandeling met de handen en een duidelijk plan met oefeningen die u zelf kunt doen."}
+      {
+        "title": "U neemt contact op",
+        "text": "Stuur een bericht of bel. Vertel kort wat er speelt."
+      },
+      {
+        "title": "Onderzoek bij u thuis",
+        "text": "Wij komen langs, luisteren goed en onderzoeken uw klacht. Een sessie duurt meestal 45 tot 60 minuten."
+      },
+      {
+        "title": "Behandeling en plan",
+        "text": "U krijgt een behandeling met de handen en een duidelijk plan met oefeningen die u zelf kunt doen."
+      }
     ],
     "cta_title": "Weet u niet welke behandeling past?",
     "cta_text": "Beschrijf uw klacht en wij adviseren u.",
@@ -115,7 +170,10 @@
     "career_title": "Loopbaan",
     "career": "Tijdens haar zeven jaar aan de universiteit werkte Mellany als fysiotherapeut in diverse openbare en particuliere ziekenhuizen, en daarnaast bij particuliere praktijken, instituten en revalidatiecentra van de overheid.",
     "quals_title": "Kwalificaties",
-    "quals": ["Diploma fysiotherapie (4 jaar universitaire opleiding)", "Diploma verpleegkunde (4 jaar opleiding, in 3 jaar afgerond)"],
+    "quals": [
+      "Diploma fysiotherapie (4 jaar universitaire opleiding)",
+      "Diploma verpleegkunde (4 jaar opleiding, in 3 jaar afgerond)"
+    ],
     "languages_title": "Talen",
     "languages": "Nederlands, Engels en Spaans",
     "cta": "Neem contact op met Mellany"
@@ -124,12 +182,30 @@
     "title": "Veelgestelde vragen",
     "description": "Antwoorden op veelgestelde vragen over fysiotherapie en behandeling aan huis door PhysioFit365.",
     "items": [
-      {"q": "Wat is een fysiotherapeut?", "a": "Fysiotherapeuten zijn universitair opgeleide deskundigen in het stellen van diagnoses, het behandelen van blessures, oefentherapie, blessurepreventie en revalidatie, op veel gebieden van sport, gezondheid en fitheid."},
-      {"q": "Zijn er gespecialiseerde fysiotherapeuten?", "a": "Ja. PhysioFit365 werkt met professionals die een vervolgopleiding hebben gevolgd in manuele therapie, sporttherapie, werkgerelateerde therapie en andere disciplines."},
-      {"q": "Behandelen jullie echt bij mensen thuis?", "a": "Ja. Wij komen naar u toe in en rond Rojales. Behandeling in uw eigen omgeving is prettiger, en een sessie duurt meestal 45 tot 60 minuten, soms korter of langer."},
-      {"q": "Welke talen spreekt u?", "a": "Mellany spreekt Nederlands, Engels en Spaans, zodat u uw klacht kunt beschrijven in de taal waarin u zich het prettigst voelt."},
-      {"q": "Met welke klachten kan ik terecht?", "a": "Veelvoorkomend zijn pijn, herstel na een operatie, spierversterking, werkblessures en sportblessures. Twijfelt u? Stuur ons een bericht en wij adviseren u."},
-      {"q": "Hoe kom ik in contact?", "a": "Gebruik het contactformulier, bel ons of mail naar info@physiofit365.com. Wij zijn bereikbaar van maandag tot en met vrijdag, 15:00 tot 21:00."}
+      {
+        "q": "Wat is een fysiotherapeut?",
+        "a": "Fysiotherapeuten zijn universitair opgeleide deskundigen in het stellen van diagnoses, het behandelen van blessures, oefentherapie, blessurepreventie en revalidatie, op veel gebieden van sport, gezondheid en fitheid."
+      },
+      {
+        "q": "Zijn er gespecialiseerde fysiotherapeuten?",
+        "a": "Ja. PhysioFit365 werkt met professionals die een vervolgopleiding hebben gevolgd in manuele therapie, sporttherapie, werkgerelateerde therapie en andere disciplines."
+      },
+      {
+        "q": "Behandelen jullie echt bij mensen thuis?",
+        "a": "Ja. Wij komen naar u toe in en rond Rojales. Behandeling in uw eigen omgeving is prettiger, en een sessie duurt meestal 45 tot 60 minuten, soms korter of langer."
+      },
+      {
+        "q": "Welke talen spreekt u?",
+        "a": "Mellany spreekt Nederlands, Engels en Spaans, zodat u uw klacht kunt beschrijven in de taal waarin u zich het prettigst voelt."
+      },
+      {
+        "q": "Met welke klachten kan ik terecht?",
+        "a": "Veelvoorkomend zijn pijn, herstel na een operatie, spierversterking, werkblessures en sportblessures. Twijfelt u? Stuur ons een bericht en wij adviseren u."
+      },
+      {
+        "q": "Hoe kom ik in contact?",
+        "a": "Gebruik het contactformulier, bel ons of mail naar info@physiofit365.com. Wij zijn bereikbaar van maandag tot en met vrijdag, 15:00 tot 21:00."
+      }
     ]
   },
   "contact": {
@@ -144,7 +220,13 @@
     "town": "Woonplaats of regio",
     "town_hint": "Zodat wij kunnen nagaan of wij naar uw adres komen",
     "service": "Waar gaat het over?",
-    "service_options": {"": "Maak een keuze", "manual": "Manuele therapie", "work": "Werkblessure", "sport": "Sportblessure", "other": "Iets anders / ik weet het niet"},
+    "service_options": {
+      "": "Maak een keuze",
+      "manual": "Manuele therapie",
+      "work": "Werkblessure",
+      "sport": "Sportblessure",
+      "other": "Iets anders / ik weet het niet"
+    },
     "subject": "Onderwerp",
     "message": "Uw bericht",
     "reply_by": "Antwoord graag per",
@@ -166,25 +248,74 @@
     "description": "Hoe PhysioFit365 omgaat met de persoonsgegevens die u via deze website verstuurt.",
     "draft": "Deze tekst is een concept en moet voor publicatie worden gecontroleerd.",
     "sections": [
-      {"h": "Wie is verantwoordelijk", "p": "PhysioFit365, Mellany Ginny van Hoeven, Calle Agata Buzón 77, 03170 Rojales (Alicante), Spanje. E-mail: info@physiofit365.com."},
-      {"h": "Wat wij verzamelen", "p": "Alleen wat u invult in het contactformulier: naam, e-mailadres, telefoonnummer, woonplaats of regio, het onderwerp van uw vraag, uw bericht, of u antwoord per telefoon of e-mail wilt, en de taal van de pagina die u gebruikte. Ook bewaren wij het tijdstip van uw aanvraag."},
-      {"h": "Waarom wij dit verzamelen", "p": "Om uw vraag te beantwoorden en, als u dat wilt, een bezoek aan huis in te plannen. Wij baseren ons op uw toestemming, die u geeft door het vakje aan te vinken voordat u het formulier verstuurt."},
-      {"h": "Waar het wordt opgeslagen", "p": "Aanvragen worden opgeslagen in een database die in de Europese Unie wordt gehost. Alleen PhysioFit365 kan ze lezen. Wij verkopen of delen uw gegevens niet voor marketing."},
-      {"h": "Hoe lang wij het bewaren", "p": "Niet langer dan nodig is om uw aanvraag en eventuele vervolgzorg af te handelen."},
-      {"h": "Uw rechten", "p": "U kunt ons op elk moment vragen uw gegevens in te zien, te corrigeren of te verwijderen, of uw toestemming in te trekken, door te mailen naar info@physiofit365.com. U kunt ook een klacht indienen bij de Spaanse toezichthouder voor gegevensbescherming (AEPD)."},
-      {"h": "Cookies", "p": "Deze website gebruikt geen tracking- of advertentiecookies."}
+      {
+        "h": "Wie is verantwoordelijk",
+        "p": "PhysioFit365, Mellany Ginny van Hoeven, Calle Agata Buzón 77, 03170 Rojales (Alicante), Spanje. E-mail: info@physiofit365.com."
+      },
+      {
+        "h": "Wat wij verzamelen",
+        "p": "Alleen wat u invult in het contactformulier: naam, e-mailadres, telefoonnummer, woonplaats of regio, het onderwerp van uw vraag, uw bericht, of u antwoord per telefoon of e-mail wilt, en de taal van de pagina die u gebruikte. Ook bewaren wij het tijdstip van uw aanvraag."
+      },
+      {
+        "h": "Waarom wij dit verzamelen",
+        "p": "Om uw vraag te beantwoorden en, als u dat wilt, een bezoek aan huis in te plannen. Wij baseren ons op uw toestemming, die u geeft door het vakje aan te vinken voordat u het formulier verstuurt."
+      },
+      {
+        "h": "Waar het wordt opgeslagen",
+        "p": "Aanvragen worden opgeslagen in een database die in de Europese Unie wordt gehost. Alleen PhysioFit365 kan ze lezen. Wij verkopen of delen uw gegevens niet voor marketing. Wanneer u het formulier verstuurt, wordt ook een e-mailmelding aan PhysioFit365 verstuurd via een e-mailbezorgdienst (Resend)."
+      },
+      {
+        "h": "Hoe lang wij het bewaren",
+        "p": "Niet langer dan nodig is om uw aanvraag en eventuele vervolgzorg af te handelen."
+      },
+      {
+        "h": "Uw rechten",
+        "p": "U kunt ons op elk moment vragen uw gegevens in te zien, te corrigeren of te verwijderen, of uw toestemming in te trekken, door te mailen naar info@physiofit365.com. U kunt ook een klacht indienen bij de Spaanse toezichthouder voor gegevensbescherming (AEPD)."
+      },
+      {
+        "h": "Cookies",
+        "p": "Deze website gebruikt geen tracking- of advertentiecookies."
+      }
     ]
   },
   "testimonials": [
-    {"quote": "Sufrí una fractura en el codo y me ayudó a recuperarme perfectamente gracias a sus sesiones de masaje y a sus recomendaciones y sugerencias de ejercicios para realizar diariamente.", "name": "Irene Zamora Meseguer", "label": "Behandeling elleboog"},
-    {"quote": "My physical therapist was fantastic! The care I received was impeccable. Great service!", "name": "Christopher Strock", "label": "Behandeling rugpijn"},
-    {"quote": "The physical therapist who treated me was wonderful, very professional, caring and prompt.", "name": "John White", "label": "Behandeling werkblessure"},
-    {"quote": "I had a really positive experience and my shoulder is totally functional again, without pain! I really enjoyed my therapist.", "name": "Kimberly Rogers", "label": "Behandeling sportblessure"}
+    {
+      "quote": "Sufrí una fractura en el codo y me ayudó a recuperarme perfectamente gracias a sus sesiones de masaje y a sus recomendaciones y sugerencias de ejercicios para realizar diariamente.",
+      "name": "Irene Zamora Meseguer",
+      "label": "Behandeling elleboog"
+    },
+    {
+      "quote": "My physical therapist was fantastic! The care I received was impeccable. Great service!",
+      "name": "Christopher Strock",
+      "label": "Behandeling rugpijn"
+    },
+    {
+      "quote": "The physical therapist who treated me was wonderful, very professional, caring and prompt.",
+      "name": "John White",
+      "label": "Behandeling werkblessure"
+    },
+    {
+      "quote": "I had a really positive experience and my shoulder is totally functional again, without pain! I really enjoyed my therapist.",
+      "name": "Kimberly Rogers",
+      "label": "Behandeling sportblessure"
+    }
   ],
   "insurers": [
-    {"name": "Mapfre", "url": "https://segurosdesalud.mapfre.es/"},
-    {"name": "DKV", "url": "https://eng.dkvseguros.com/"},
-    {"name": "AXA", "url": "https://www.axa.es/seguros-salud-modalidades"},
-    {"name": "ASISA", "url": "https://www.asisa.es/"}
+    {
+      "name": "Mapfre",
+      "url": "https://segurosdesalud.mapfre.es/"
+    },
+    {
+      "name": "DKV",
+      "url": "https://eng.dkvseguros.com/"
+    },
+    {
+      "name": "AXA",
+      "url": "https://www.axa.es/seguros-salud-modalidades"
+    },
+    {
+      "name": "ASISA",
+      "url": "https://www.asisa.es/"
+    }
   ]
 }

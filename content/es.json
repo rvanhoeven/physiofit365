@@ -3,7 +3,16 @@
   "locale": "es_ES",
   "lang_name": "Español",
   "site_name": "PhysioFit365",
-  "nav": {"home": "Inicio", "about": "Sobre nosotros", "services": "Tratamientos", "faq": "Preguntas frecuentes", "contact": "Contacto", "cta": "Contacta", "menu": "Menú", "language": "Idioma"},
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre nosotros",
+    "services": "Tratamientos",
+    "faq": "Preguntas frecuentes",
+    "contact": "Contacto",
+    "cta": "Contacta",
+    "menu": "Menú",
+    "language": "Idioma"
+  },
   "common": {
     "tagline": "Fisioterapia a domicilio en la Costa Blanca",
     "address_label": "Dirección",
@@ -29,17 +38,39 @@
     "hero_sub": "Fisioterapia personalizada de la mano de Mellany van Hoeven, fisioterapeuta y enfermera. Va a tu domicilio en Rojales y alrededores y se toma el tiempo de escucharte.",
     "cta_primary": "Haz una consulta",
     "cta_secondary": "Ver tratamientos",
-    "badges": ["Fisioterapeuta colegiada", "Enfermera colegiada", "English · Nederlands · Español"],
+    "badges": [
+      "Fisioterapeuta colegiada",
+      "Enfermera colegiada",
+      "English · Nederlands · Español"
+    ],
     "services_title": "En qué podemos ayudarte",
     "services_sub": "Una amplia gama de cuidados para adultos, mayores y pacientes jóvenes, siempre adaptados a ti.",
     "why_title": "Por qué PhysioFit365",
     "advantages": [
-      {"title": "Tratamiento personalizado", "text": "Un plan de tratamiento completo e individual, pensado para tu situación y tus objetivos."},
-      {"title": "Servicio a domicilio", "text": "Te tratamos donde mejor te sientes: en tu propia casa."},
-      {"title": "Fisioterapeuta colegiada", "text": "Tu tratamiento lo realiza una fisioterapeuta colegiada."},
-      {"title": "Coordinación con tus médicos", "text": "Trabajamos estrechamente con el resto de profesionales que te atienden."},
-      {"title": "Experiencia y formación", "text": "Formación y certificación en técnicas modernas de terapia manual."},
-      {"title": "Objetivos claros", "text": "Marcar objetivos juntos es la mejor manera de lograr una recuperación exitosa."}
+      {
+        "title": "Tratamiento personalizado",
+        "text": "Un plan de tratamiento completo e individual, pensado para tu situación y tus objetivos."
+      },
+      {
+        "title": "Servicio a domicilio",
+        "text": "Te tratamos donde mejor te sientes: en tu propia casa."
+      },
+      {
+        "title": "Fisioterapeuta colegiada",
+        "text": "Tu tratamiento lo realiza una fisioterapeuta colegiada."
+      },
+      {
+        "title": "Coordinación con tus médicos",
+        "text": "Trabajamos estrechamente con el resto de profesionales que te atienden."
+      },
+      {
+        "title": "Experiencia y formación",
+        "text": "Formación y certificación en técnicas modernas de terapia manual."
+      },
+      {
+        "title": "Objetivos claros",
+        "text": "Marcar objetivos juntos es la mejor manera de lograr una recuperación exitosa."
+      }
     ],
     "approach_title": "Tratamos a la persona entera, no solo el síntoma",
     "approach_text": "Analizamos las causas de tu problema: el estrés en el trabajo y en casa, tu estado físico general, la alimentación, la postura y los patrones que se acumulan en los músculos. Así te recuperas rápido y conservas el resultado.",
@@ -64,28 +95,52 @@
         "title": "Terapia manual",
         "short": "Tratamiento con las manos para mejorar el movimiento, aliviar el dolor y recuperar la función.",
         "body": "La terapia manual es uno de nuestros servicios principales. Trabajamos juntos tu capacidad de movimiento y una forma de vida más sana y plena. Tu fisioterapeuta realiza una valoración completa, que incluye postura y biomecánica, para encontrar la causa de tu problema. Cuando estés listo para el alta, recibirás un programa personal de ejercicios para hacer en casa y mantenerte sano.",
-        "points": ["Alivio del dolor", "Rehabilitación tras una operación", "Fortalecimiento muscular", "Cuidado de personas mayores"]
+        "points": [
+          "Alivio del dolor",
+          "Rehabilitación tras una operación",
+          "Fortalecimiento muscular",
+          "Cuidado de personas mayores"
+        ]
       },
       {
         "id": "work",
         "title": "Lesiones laborales",
         "short": "Rehabilitación para que vuelvas al trabajo con seguridad.",
         "body": "Si una lesión en el trabajo te limita, nuestro programa de lesiones laborales aplica un enfoque activo pero cuidadoso para que vuelvas a trabajar cuanto antes. Trabajamos en equipo y, si es necesario, hablamos con tu empresa y con el responsable de tu caso, y te ayudamos a retomar todas tus actividades normales.",
-        "points": ["Dolencias relacionadas con el trabajo", "Plan de vuelta al trabajo", "Contacto con la empresa si es necesario", "Programa de ejercicios personal"]
+        "points": [
+          "Dolencias relacionadas con el trabajo",
+          "Plan de vuelta al trabajo",
+          "Contacto con la empresa si es necesario",
+          "Programa de ejercicios personal"
+        ]
       },
       {
         "id": "sport",
         "title": "Lesiones deportivas",
         "short": "Valoración, tratamiento y prevención para deportistas de cualquier nivel.",
         "body": "Centramos la rehabilitación en lo que necesitan los deportistas para rendir y en la prevención de lesiones deportivas. En la primera cita te haremos preguntas sobre tu deporte y quizá te pidamos que muestres algunos movimientos. Después hablamos juntos del diagnóstico y del plan de tratamiento. Valoramos, tratamos y rehabilitamos lesiones musculoesqueléticas y de tejidos blandos.",
-        "points": ["Lesiones de tejidos blandos", "Rehabilitación y vuelta al deporte", "Prevención de lesiones", "Atención personalizada"]
+        "points": [
+          "Lesiones de tejidos blandos",
+          "Rehabilitación y vuelta al deporte",
+          "Prevención de lesiones",
+          "Atención personalizada"
+        ]
       }
     ],
     "how_title": "Cómo es una visita",
     "how": [
-      {"title": "Te pones en contacto", "text": "Envía un mensaje o llama. Cuéntanos brevemente qué te ocurre."},
-      {"title": "Valoración en tu casa", "text": "Vamos a verte, te escuchamos con atención y valoramos tu dolencia. Una sesión suele durar entre 45 y 60 minutos."},
-      {"title": "Tratamiento y plan", "text": "Recibes un tratamiento manual y un plan claro con ejercicios que puedes hacer tú mismo."}
+      {
+        "title": "Te pones en contacto",
+        "text": "Envía un mensaje o llama. Cuéntanos brevemente qué te ocurre."
+      },
+      {
+        "title": "Valoración en tu casa",
+        "text": "Vamos a verte, te escuchamos con atención y valoramos tu dolencia. Una sesión suele durar entre 45 y 60 minutos."
+      },
+      {
+        "title": "Tratamiento y plan",
+        "text": "Recibes un tratamiento manual y un plan claro con ejercicios que puedes hacer tú mismo."
+      }
     ],
     "cta_title": "¿No sabes qué tratamiento te conviene?",
     "cta_text": "Describe tu dolencia y te aconsejamos.",
@@ -115,7 +170,10 @@
     "career_title": "Trayectoria",
     "career": "Durante sus siete años de universidad, Mellany trabajó como fisioterapeuta en diversos hospitales públicos y privados, así como en consultas privadas, institutos y centros de rehabilitación públicos.",
     "quals_title": "Titulaciones",
-    "quals": ["Grado en Fisioterapia (4 años de estudios universitarios)", "Grado en Enfermería (4 años de estudios, completado en 3)"],
+    "quals": [
+      "Grado en Fisioterapia (4 años de estudios universitarios)",
+      "Grado en Enfermería (4 años de estudios, completado en 3)"
+    ],
     "languages_title": "Idiomas",
     "languages": "Español, inglés y neerlandés",
     "cta": "Contacta con Mellany"
@@ -124,12 +182,30 @@
     "title": "Preguntas frecuentes",
     "description": "Respuestas a preguntas habituales sobre fisioterapia y visitas a domicilio con PhysioFit365.",
     "items": [
-      {"q": "¿Qué es un fisioterapeuta?", "a": "Los fisioterapeutas son profesionales con formación universitaria, expertos en diagnosticar y tratar lesiones, prescribir ejercicio, prevenir lesiones y rehabilitar, en muchos ámbitos del deporte, la salud y la forma física."},
-      {"q": "¿Hay fisioterapeutas especialistas?", "a": "Sí. PhysioFit365 trabaja con profesionales con formación avanzada en terapia manual, terapia deportiva, terapia laboral y otras disciplinas."},
-      {"q": "¿De verdad tratáis en casa?", "a": "Sí. Vamos a tu domicilio en Rojales y alrededores. Tratarte en tu propio entorno es más cómodo, y una sesión suele durar entre 45 y 60 minutos, a veces menos o más."},
-      {"q": "¿Qué idiomas habláis?", "a": "Mellany habla español, inglés y neerlandés, así que puedes explicar tu dolencia en el idioma en el que te sientas más cómodo."},
-      {"q": "¿Qué dolencias podéis tratar?", "a": "Motivos habituales son el dolor, la recuperación tras una operación, el fortalecimiento muscular, las lesiones laborales y las deportivas. ¿Dudas? Envíanos un mensaje y te aconsejamos."},
-      {"q": "¿Cómo me pongo en contacto?", "a": "Usa el formulario de contacto, llámanos o escribe a info@physiofit365.com. Estamos disponibles de lunes a viernes, de 15:00 a 21:00."}
+      {
+        "q": "¿Qué es un fisioterapeuta?",
+        "a": "Los fisioterapeutas son profesionales con formación universitaria, expertos en diagnosticar y tratar lesiones, prescribir ejercicio, prevenir lesiones y rehabilitar, en muchos ámbitos del deporte, la salud y la forma física."
+      },
+      {
+        "q": "¿Hay fisioterapeutas especialistas?",
+        "a": "Sí. PhysioFit365 trabaja con profesionales con formación avanzada en terapia manual, terapia deportiva, terapia laboral y otras disciplinas."
+      },
+      {
+        "q": "¿De verdad tratáis en casa?",
+        "a": "Sí. Vamos a tu domicilio en Rojales y alrededores. Tratarte en tu propio entorno es más cómodo, y una sesión suele durar entre 45 y 60 minutos, a veces menos o más."
+      },
+      {
+        "q": "¿Qué idiomas habláis?",
+        "a": "Mellany habla español, inglés y neerlandés, así que puedes explicar tu dolencia en el idioma en el que te sientas más cómodo."
+      },
+      {
+        "q": "¿Qué dolencias podéis tratar?",
+        "a": "Motivos habituales son el dolor, la recuperación tras una operación, el fortalecimiento muscular, las lesiones laborales y las deportivas. ¿Dudas? Envíanos un mensaje y te aconsejamos."
+      },
+      {
+        "q": "¿Cómo me pongo en contacto?",
+        "a": "Usa el formulario de contacto, llámanos o escribe a info@physiofit365.com. Estamos disponibles de lunes a viernes, de 15:00 a 21:00."
+      }
     ]
   },
   "contact": {
@@ -144,7 +220,13 @@
     "town": "Localidad o zona",
     "town_hint": "Para comprobar que llegamos a tu dirección",
     "service": "¿Sobre qué es?",
-    "service_options": {"": "Elige una opción", "manual": "Terapia manual", "work": "Lesión laboral", "sport": "Lesión deportiva", "other": "Otra cosa / no lo sé"},
+    "service_options": {
+      "": "Elige una opción",
+      "manual": "Terapia manual",
+      "work": "Lesión laboral",
+      "sport": "Lesión deportiva",
+      "other": "Otra cosa / no lo sé"
+    },
     "subject": "Asunto",
     "message": "Tu mensaje",
     "reply_by": "Prefiero que me respondáis por",
@@ -166,25 +248,74 @@
     "description": "Cómo trata PhysioFit365 los datos personales que envías a través de este sitio web.",
     "draft": "Este texto es un borrador y debe revisarse antes de publicarse.",
     "sections": [
-      {"h": "Responsable", "p": "PhysioFit365, Mellany Ginny van Hoeven, Calle Agata Buzón 77, 03170 Rojales (Alicante), España. Correo electrónico: info@physiofit365.com."},
-      {"h": "Qué datos recogemos", "p": "Solo lo que introduces en el formulario de contacto: nombre, correo electrónico, teléfono, localidad o zona, el asunto de tu consulta, tu mensaje, si prefieres respuesta por teléfono o por correo, y el idioma de la página que usaste. También guardamos la hora de tu solicitud."},
-      {"h": "Para qué los recogemos", "p": "Para responder a tu consulta y, si lo deseas, concertar una visita a domicilio. Nos basamos en tu consentimiento, que das al marcar la casilla antes de enviar el formulario."},
-      {"h": "Dónde se almacenan", "p": "Las solicitudes se guardan en una base de datos alojada en la Unión Europea. Solo PhysioFit365 puede leerlas. No vendemos ni compartimos tus datos con fines de marketing."},
-      {"h": "Cuánto tiempo los conservamos", "p": "No más tiempo del necesario para atender tu solicitud y la posible atención posterior."},
-      {"h": "Tus derechos", "p": "Puedes pedirnos en cualquier momento acceder a tus datos, corregirlos o eliminarlos, o retirar tu consentimiento, escribiendo a info@physiofit365.com. También puedes presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD)."},
-      {"h": "Cookies", "p": "Este sitio web no utiliza cookies de seguimiento ni publicitarias."}
+      {
+        "h": "Responsable",
+        "p": "PhysioFit365, Mellany Ginny van Hoeven, Calle Agata Buzón 77, 03170 Rojales (Alicante), España. Correo electrónico: info@physiofit365.com."
+      },
+      {
+        "h": "Qué datos recogemos",
+        "p": "Solo lo que introduces en el formulario de contacto: nombre, correo electrónico, teléfono, localidad o zona, el asunto de tu consulta, tu mensaje, si prefieres respuesta por teléfono o por correo, y el idioma de la página que usaste. También guardamos la hora de tu solicitud."
+      },
+      {
+        "h": "Para qué los recogemos",
+        "p": "Para responder a tu consulta y, si lo deseas, concertar una visita a domicilio. Nos basamos en tu consentimiento, que das al marcar la casilla antes de enviar el formulario."
+      },
+      {
+        "h": "Dónde se almacenan",
+        "p": "Las solicitudes se guardan en una base de datos alojada en la Unión Europea. Solo PhysioFit365 puede leerlas. No vendemos ni compartimos tus datos con fines de marketing. Al enviar el formulario, también se envía un aviso por correo electrónico a PhysioFit365 a través de un servicio de envío de correo (Resend)."
+      },
+      {
+        "h": "Cuánto tiempo los conservamos",
+        "p": "No más tiempo del necesario para atender tu solicitud y la posible atención posterior."
+      },
+      {
+        "h": "Tus derechos",
+        "p": "Puedes pedirnos en cualquier momento acceder a tus datos, corregirlos o eliminarlos, o retirar tu consentimiento, escribiendo a info@physiofit365.com. También puedes presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD)."
+      },
+      {
+        "h": "Cookies",
+        "p": "Este sitio web no utiliza cookies de seguimiento ni publicitarias."
+      }
     ]
   },
   "testimonials": [
-    {"quote": "Sufrí una fractura en el codo y me ayudó a recuperarme perfectamente gracias a sus sesiones de masaje y a sus recomendaciones y sugerencias de ejercicios para realizar diariamente.", "name": "Irene Zamora Meseguer", "label": "Tratamiento de codo"},
-    {"quote": "My physical therapist was fantastic! The care I received was impeccable. Great service!", "name": "Christopher Strock", "label": "Tratamiento de dolor de espalda"},
-    {"quote": "The physical therapist who treated me was wonderful, very professional, caring and prompt.", "name": "John White", "label": "Tratamiento de lesión laboral"},
-    {"quote": "I had a really positive experience and my shoulder is totally functional again, without pain! I really enjoyed my therapist.", "name": "Kimberly Rogers", "label": "Tratamiento de lesión deportiva"}
+    {
+      "quote": "Sufrí una fractura en el codo y me ayudó a recuperarme perfectamente gracias a sus sesiones de masaje y a sus recomendaciones y sugerencias de ejercicios para realizar diariamente.",
+      "name": "Irene Zamora Meseguer",
+      "label": "Tratamiento de codo"
+    },
+    {
+      "quote": "My physical therapist was fantastic! The care I received was impeccable. Great service!",
+      "name": "Christopher Strock",
+      "label": "Tratamiento de dolor de espalda"
+    },
+    {
+      "quote": "The physical therapist who treated me was wonderful, very professional, caring and prompt.",
+      "name": "John White",
+      "label": "Tratamiento de lesión laboral"
+    },
+    {
+      "quote": "I had a really positive experience and my shoulder is totally functional again, without pain! I really enjoyed my therapist.",
+      "name": "Kimberly Rogers",
+      "label": "Tratamiento de lesión deportiva"
+    }
   ],
   "insurers": [
-    {"name": "Mapfre", "url": "https://segurosdesalud.mapfre.es/"},
-    {"name": "DKV", "url": "https://eng.dkvseguros.com/"},
-    {"name": "AXA", "url": "https://www.axa.es/seguros-salud-modalidades"},
-    {"name": "ASISA", "url": "https://www.asisa.es/"}
+    {
+      "name": "Mapfre",
+      "url": "https://segurosdesalud.mapfre.es/"
+    },
+    {
+      "name": "DKV",
+      "url": "https://eng.dkvseguros.com/"
+    },
+    {
+      "name": "AXA",
+      "url": "https://www.axa.es/seguros-salud-modalidades"
+    },
+    {
+      "name": "ASISA",
+      "url": "https://www.asisa.es/"
+    }
   ]
 }

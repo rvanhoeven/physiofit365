@@ -3,7 +3,16 @@
   "locale": "en_US",
   "lang_name": "English",
   "site_name": "PhysioFit365",
-  "nav": {"home": "Home", "about": "About", "services": "Services", "faq": "FAQ", "contact": "Contact", "cta": "Get in touch", "menu": "Menu", "language": "Language"},
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Get in touch",
+    "menu": "Menu",
+    "language": "Language"
+  },
   "common": {
     "tagline": "Physiotherapy at home on the Costa Blanca",
     "address_label": "Address",
@@ -29,17 +38,39 @@
     "hero_sub": "Personal physiotherapy by Mellany van Hoeven, physiotherapist and registered nurse. She comes to you in and around Rojales and takes the time to listen.",
     "cta_primary": "Ask a question",
     "cta_secondary": "View treatments",
-    "badges": ["Licensed physiotherapist", "Registered nurse", "English · Nederlands · Español"],
+    "badges": [
+      "Licensed physiotherapist",
+      "Registered nurse",
+      "English · Nederlands · Español"
+    ],
     "services_title": "How we can help",
     "services_sub": "A broad range of care for adults, seniors and young patients, always tailored to you.",
     "why_title": "Why PhysioFit365",
     "advantages": [
-      {"title": "Personal treatment", "text": "A full, individual treatment plan built around your situation and your goals."},
-      {"title": "Service at home", "text": "We treat you where you are most comfortable: in your own home."},
-      {"title": "Licensed therapist", "text": "Your treatment is carried out by a licensed physiotherapist."},
-      {"title": "Working with your doctors", "text": "We work closely with all your other health practitioners."},
-      {"title": "Experienced and certified", "text": "Trained and certified in modern manual therapy techniques."},
-      {"title": "Clear goals", "text": "Setting goals together is the best way to a successful recovery."}
+      {
+        "title": "Personal treatment",
+        "text": "A full, individual treatment plan built around your situation and your goals."
+      },
+      {
+        "title": "Service at home",
+        "text": "We treat you where you are most comfortable: in your own home."
+      },
+      {
+        "title": "Licensed therapist",
+        "text": "Your treatment is carried out by a licensed physiotherapist."
+      },
+      {
+        "title": "Working with your doctors",
+        "text": "We work closely with all your other health practitioners."
+      },
+      {
+        "title": "Experienced and certified",
+        "text": "Trained and certified in modern manual therapy techniques."
+      },
+      {
+        "title": "Clear goals",
+        "text": "Setting goals together is the best way to a successful recovery."
+      }
     ],
     "approach_title": "Treating the whole person, not just the symptom",
     "approach_text": "We look at the root causes of your complaint: your work and home stress, overall body condition, nutrition, posture and the patterns held in your muscles. That is how we help you recover quickly and keep the result.",
@@ -64,28 +95,52 @@
         "title": "Manual therapy",
         "short": "Hands-on treatment to improve movement, reduce pain and restore function.",
         "body": "Manual therapy is one of our core services. Together we work on your movement potential and on a healthier, fuller way of life. Your therapist carries out a comprehensive assessment, including posture and biomechanics, to find the cause of your problem. When you are ready for discharge you receive a personal home exercise programme so you stay healthy.",
-        "points": ["Pain relief", "Rehabilitation after surgery", "Muscle strengthening", "Care for seniors"]
+        "points": [
+          "Pain relief",
+          "Rehabilitation after surgery",
+          "Muscle strengthening",
+          "Care for seniors"
+        ]
       },
       {
         "id": "work",
         "title": "Work injuries",
         "short": "Rehabilitation to get you safely back to work.",
         "body": "If an injury at work is holding you back, our work injury programme takes an active yet careful approach to getting you back to work. We take a team approach and will consult with your employer and case manager if necessary, and we help you return to all normal functional activities.",
-        "points": ["Workplace-related complaints", "Return-to-work planning", "Contact with employer if needed", "Personal exercise programme"]
+        "points": [
+          "Workplace-related complaints",
+          "Return-to-work planning",
+          "Contact with employer if needed",
+          "Personal exercise programme"
+        ]
       },
       {
         "id": "sport",
         "title": "Sport injuries",
         "short": "Assessment, treatment and prevention for athletes of every level.",
         "body": "We focus our rehabilitation on the performance needs of athletes as well as on preventing sport-related injuries. Your first appointment includes questions about your sport and possibly a few movements to demonstrate. Your diagnosis and treatment plan are then discussed together. We assess, treat and rehabilitate musculoskeletal and soft tissue injuries.",
-        "points": ["Soft tissue injuries", "Rehabilitation and return to sport", "Injury prevention", "Personalised care"]
+        "points": [
+          "Soft tissue injuries",
+          "Rehabilitation and return to sport",
+          "Injury prevention",
+          "Personalised care"
+        ]
       }
     ],
     "how_title": "How a visit works",
     "how": [
-      {"title": "You get in touch", "text": "Send a message or call. Tell us briefly what is going on."},
-      {"title": "Assessment at home", "text": "We visit you, listen carefully and assess your complaint. A session usually takes 45 to 60 minutes."},
-      {"title": "Treatment and plan", "text": "You receive hands-on treatment and a clear plan with exercises you can do yourself."}
+      {
+        "title": "You get in touch",
+        "text": "Send a message or call. Tell us briefly what is going on."
+      },
+      {
+        "title": "Assessment at home",
+        "text": "We visit you, listen carefully and assess your complaint. A session usually takes 45 to 60 minutes."
+      },
+      {
+        "title": "Treatment and plan",
+        "text": "You receive hands-on treatment and a clear plan with exercises you can do yourself."
+      }
     ],
     "cta_title": "Not sure which treatment fits?",
     "cta_text": "Describe your complaint and we will advise you.",
@@ -115,7 +170,10 @@
     "career_title": "Career",
     "career": "During her seven years at university, Mellany worked as a physiotherapist in various public and private hospitals, as well as in private practices, institutes and government rehabilitation centres.",
     "quals_title": "Qualifications",
-    "quals": ["Graduate diploma in physiotherapy (4-year university programme)", "Graduate diploma in nursing (4-year programme, completed in 3 years)"],
+    "quals": [
+      "Graduate diploma in physiotherapy (4-year university programme)",
+      "Graduate diploma in nursing (4-year programme, completed in 3 years)"
+    ],
     "languages_title": "Languages",
     "languages": "English, Dutch and Spanish",
     "cta": "Contact Mellany"
@@ -124,12 +182,30 @@
     "title": "Frequently asked questions",
     "description": "Answers to common questions about physiotherapy and home visits by PhysioFit365.",
     "items": [
-      {"q": "What is a physiotherapist?", "a": "Physiotherapists are university-trained experts in diagnosing and treating injuries, prescribing exercise, preventing injury and rehabilitation, across many areas of sport, health and fitness."},
-      {"q": "Are there physiotherapy specialists?", "a": "Yes. PhysioFit365 works with professionals who have advanced training in manual therapy, sport therapy, work-related therapy and other disciplines."},
-      {"q": "Do you really treat at home?", "a": "Yes. We come to you in and around Rojales. Treating you in your own surroundings is more comfortable, and a session usually lasts 45 to 60 minutes, sometimes shorter or longer."},
-      {"q": "Which languages do you speak?", "a": "Mellany speaks English, Dutch and Spanish, so you can describe your complaint in the language you are most comfortable with."},
-      {"q": "Which complaints can you treat?", "a": "Common reasons are pain, recovery after surgery, muscle strengthening, work-related injuries and sport injuries. Not sure? Send us a message and we will advise you."},
-      {"q": "How do I get in touch?", "a": "Use the contact form, call us or email info@physiofit365.com. We are available Monday to Friday, 15:00 to 21:00."}
+      {
+        "q": "What is a physiotherapist?",
+        "a": "Physiotherapists are university-trained experts in diagnosing and treating injuries, prescribing exercise, preventing injury and rehabilitation, across many areas of sport, health and fitness."
+      },
+      {
+        "q": "Are there physiotherapy specialists?",
+        "a": "Yes. PhysioFit365 works with professionals who have advanced training in manual therapy, sport therapy, work-related therapy and other disciplines."
+      },
+      {
+        "q": "Do you really treat at home?",
+        "a": "Yes. We come to you in and around Rojales. Treating you in your own surroundings is more comfortable, and a session usually lasts 45 to 60 minutes, sometimes shorter or longer."
+      },
+      {
+        "q": "Which languages do you speak?",
+        "a": "Mellany speaks English, Dutch and Spanish, so you can describe your complaint in the language you are most comfortable with."
+      },
+      {
+        "q": "Which complaints can you treat?",
+        "a": "Common reasons are pain, recovery after surgery, muscle strengthening, work-related injuries and sport injuries. Not sure? Send us a message and we will advise you."
+      },
+      {
+        "q": "How do I get in touch?",
+        "a": "Use the contact form, call us or email info@physiofit365.com. We are available Monday to Friday, 15:00 to 21:00."
+      }
     ]
   },
   "contact": {
@@ -144,7 +220,13 @@
     "town": "Town or area",
     "town_hint": "So we can check that we cover your address",
     "service": "What is it about?",
-    "service_options": {"": "Choose an option", "manual": "Manual therapy", "work": "Work injury", "sport": "Sport injury", "other": "Something else / not sure"},
+    "service_options": {
+      "": "Choose an option",
+      "manual": "Manual therapy",
+      "work": "Work injury",
+      "sport": "Sport injury",
+      "other": "Something else / not sure"
+    },
     "subject": "Subject",
     "message": "Your message",
     "reply_by": "Please answer me by",
@@ -166,25 +248,74 @@
     "description": "How PhysioFit365 handles the personal data you send through this website.",
     "draft": "This text is a draft and should be reviewed before publication.",
     "sections": [
-      {"h": "Who is responsible", "p": "PhysioFit365, Mellany Ginny van Hoeven, Calle Agata Buzón 77, 03170 Rojales (Alicante), Spain. Email: info@physiofit365.com."},
-      {"h": "What we collect", "p": "Only what you enter in the contact form: name, email, phone number, town or area, the subject of your question, your message, whether you prefer an answer by phone or email, and the language of the page you used. We also store the time of your request."},
-      {"h": "Why we collect it", "p": "To answer your question and, if you wish, to arrange a home visit. We rely on your consent, which you give by ticking the box before sending the form."},
-      {"h": "Where it is stored", "p": "Requests are stored in a database hosted in the European Union. Only PhysioFit365 can read them. We do not sell or share your data for marketing."},
-      {"h": "How long we keep it", "p": "No longer than needed to deal with your request and any follow-up care."},
-      {"h": "Your rights", "p": "You can ask us at any time to access, correct or delete your data, or withdraw your consent, by emailing info@physiofit365.com. You can also lodge a complaint with the Spanish data protection authority (AEPD)."},
-      {"h": "Cookies", "p": "This website does not use tracking or advertising cookies."}
+      {
+        "h": "Who is responsible",
+        "p": "PhysioFit365, Mellany Ginny van Hoeven, Calle Agata Buzón 77, 03170 Rojales (Alicante), Spain. Email: info@physiofit365.com."
+      },
+      {
+        "h": "What we collect",
+        "p": "Only what you enter in the contact form: name, email, phone number, town or area, the subject of your question, your message, whether you prefer an answer by phone or email, and the language of the page you used. We also store the time of your request."
+      },
+      {
+        "h": "Why we collect it",
+        "p": "To answer your question and, if you wish, to arrange a home visit. We rely on your consent, which you give by ticking the box before sending the form."
+      },
+      {
+        "h": "Where it is stored",
+        "p": "Requests are stored in a database hosted in the European Union. Only PhysioFit365 can read them. We do not sell or share your data for marketing. When you submit the form, a notification email is also sent to PhysioFit365 through an email delivery service (Resend)."
+      },
+      {
+        "h": "How long we keep it",
+        "p": "No longer than needed to deal with your request and any follow-up care."
+      },
+      {
+        "h": "Your rights",
+        "p": "You can ask us at any time to access, correct or delete your data, or withdraw your consent, by emailing info@physiofit365.com. You can also lodge a complaint with the Spanish data protection authority (AEPD)."
+      },
+      {
+        "h": "Cookies",
+        "p": "This website does not use tracking or advertising cookies."
+      }
     ]
   },
   "testimonials": [
-    {"quote": "Sufrí una fractura en el codo y me ayudó a recuperarme perfectamente gracias a sus sesiones de masaje y a sus recomendaciones y sugerencias de ejercicios para realizar diariamente.", "name": "Irene Zamora Meseguer", "label": "Elbow treatment"},
-    {"quote": "My physical therapist was fantastic! The care I received was impeccable. Great service!", "name": "Christopher Strock", "label": "Back pain treatment"},
-    {"quote": "The physical therapist who treated me was wonderful, very professional, caring and prompt.", "name": "John White", "label": "Work injury treatment"},
-    {"quote": "I had a really positive experience and my shoulder is totally functional again, without pain! I really enjoyed my therapist.", "name": "Kimberly Rogers", "label": "Sport injury treatment"}
+    {
+      "quote": "Sufrí una fractura en el codo y me ayudó a recuperarme perfectamente gracias a sus sesiones de masaje y a sus recomendaciones y sugerencias de ejercicios para realizar diariamente.",
+      "name": "Irene Zamora Meseguer",
+      "label": "Elbow treatment"
+    },
+    {
+      "quote": "My physical therapist was fantastic! The care I received was impeccable. Great service!",
+      "name": "Christopher Strock",
+      "label": "Back pain treatment"
+    },
+    {
+      "quote": "The physical therapist who treated me was wonderful, very professional, caring and prompt.",
+      "name": "John White",
+      "label": "Work injury treatment"
+    },
+    {
+      "quote": "I had a really positive experience and my shoulder is totally functional again, without pain! I really enjoyed my therapist.",
+      "name": "Kimberly Rogers",
+      "label": "Sport injury treatment"
+    }
   ],
   "insurers": [
-    {"name": "Mapfre", "url": "https://segurosdesalud.mapfre.es/"},
-    {"name": "DKV", "url": "https://eng.dkvseguros.com/"},
-    {"name": "AXA", "url": "https://www.axa.es/seguros-salud-modalidades"},
-    {"name": "ASISA", "url": "https://www.asisa.es/"}
+    {
+      "name": "Mapfre",
+      "url": "https://segurosdesalud.mapfre.es/"
+    },
+    {
+      "name": "DKV",
+      "url": "https://eng.dkvseguros.com/"
+    },
+    {
+      "name": "AXA",
+      "url": "https://www.axa.es/seguros-salud-modalidades"
+    },
+    {
+      "name": "ASISA",
+      "url": "https://www.asisa.es/"
+    }
   ]
 }
