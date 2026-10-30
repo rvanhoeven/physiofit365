@@ -120,7 +120,9 @@ def head(ctx, title, description):
 <meta property="og:url" content="{abs_url(ctx.lang, ctx.page)}">
 <meta property="og:image" content="{BASE_URL}/assets/img/logo.png">
 <meta name="theme-color" content="#fe26ac">
-<link rel="icon" type="image/jpeg" href="{ctx.asset('img/icon-small.jpg')}">
+<link rel="icon" href="{ctx.asset('img/favicon.svg')}" type="image/svg+xml">
+<link rel="icon" href="{ctx.asset('img/favicon.ico')}" sizes="48x48">
+<link rel="apple-touch-icon" href="{ctx.asset('img/apple-touch-icon.png')}">
 <link rel="stylesheet" href="{ctx.asset('css/style.css')}">
 </head>"""
 
@@ -515,6 +517,8 @@ def main():
     write(SITE / "index.html", f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PhysioFit365</title>
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/img/favicon.ico" sizes="48x48">
 <link rel="canonical" href="{BASE_URL}/en/">
 <link rel="alternate" hreflang="x-default" href="{BASE_URL}/en/">
 <noscript><meta http-equiv="refresh" content="0; url=en/"></noscript>

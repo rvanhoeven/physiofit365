@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FE26AC"/>
+      <stop offset="1" stop-color="#FA0DD6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- huis: fysiotherapie aan huis -->
+  <path d="M256 84 L442 240 H394 V418 H118 V240 H70 Z" fill="#fff" stroke="#fff" stroke-width="16" stroke-linejoin="round"/>
+  <!-- kruis: zorg -->
+  <path d="M232 262 H280 V306 H324 V354 H280 V398 H232 V354 H188 V306 H232 Z" fill="#FA0DD6" stroke="#FA0DD6" stroke-width="8" stroke-linejoin="round"/>
+</svg>
