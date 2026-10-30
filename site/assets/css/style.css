@@ -71,7 +71,7 @@ p { margin: 0 0 1em; }
 .badges li { display: flex; align-items: center; gap: 8px; }
 .hero-photo { position: relative; }
 .arch { border-radius: 999px 999px 28px 28px; padding: 10px; background: var(--grad); box-shadow: var(--shadow); }
-.arch img { border-radius: 990px 990px 20px 20px; width: 100%; aspect-ratio: 4 / 4.4; object-fit: cover; object-position: center top; background: #fff; }
+.arch img { border-radius: 990px 990px 20px 20px; width: 100%; aspect-ratio: 4 / 4.4; object-fit: cover; object-position: 48% 20%; background: #fff; }
 .chip { position: absolute; left: -10px; bottom: 22px; display: flex; align-items: center; gap: 8px; background: #fff; padding: 10px 16px; border-radius: 999px; box-shadow: var(--shadow); font-weight: 700; font-size: .9rem; margin: 0; }
 
 /* icons */
